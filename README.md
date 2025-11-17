@@ -250,9 +250,9 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
 
-### 🎮 *"Bringing classic games into the modern era, one drag at a time!"* ✨
+### 🛒 *"Bringing grocery management into the modern era, one feature at a time!"* ✨
 
-**⭐ Enjoyed the game? Give it a star!**
+**⭐ Enjoyed the project? Give it a star!**
 
 </div>
 
